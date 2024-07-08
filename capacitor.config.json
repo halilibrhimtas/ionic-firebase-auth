@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "Dummy App",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "GoogleAuth": {
+      "forceCodeForRefreshToken": true,
+      "serverClientId": "131958555077-o0meemqdf4ki5kqh0r4s15pulgo22et7.apps.googleusercontent.com",
+      "scopes": ["profile","email"]
+    }
+  }
+}
